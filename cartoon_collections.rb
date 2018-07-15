@@ -29,5 +29,6 @@ def find_the_cheese(snacks)
       cheese === item
     end
   end
+  return nil
 
 end
